@@ -1,0 +1,15 @@
+# Talkatone 分流规则，确保不泄露DNS
+DOMAIN-SUFFIX,mobilefuse.com,Talkatone-Proxy
+DOMAIN-SUFFIX,inmobi.com,Talkatone-Proxy
+DOMAIN-SUFFIX,crashlytics.com,Talkatone-Proxy
+DOMAIN-SUFFIX,talkatone.com,Talkatone-Proxy
+DOMAIN-SUFFIX,kochava.com,Talkatone-Proxy
+DOMAIN-SUFFIX,tktn.be,Talkatone-Proxy
+DOMAIN-SUFFIX,cohere.com,Talkatone-Proxy
+DOMAIN-SUFFIX,ip-api.com,Talkatone-Proxy
+DOMAIN-SUFFIX,agkn.com,Talkatone-Proxy
+DOMAIN-SUFFIX,tktn.at,Talkatone-Proxy
+IP-CIDR,50.117.27.0/24,Talkatone-Proxy,no-resolve
+IP-CIDR,69.46.75.0/24,Talkatone-Proxy,no-resolve
+IP-CIDR,205.164.56.0/24,Talkatone-Proxy,no-resolve
+IP-CIDR,63.251.124.0/24,Talkatone-Proxy,no-resolve
